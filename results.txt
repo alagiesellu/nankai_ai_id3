@@ -1,0 +1,79 @@
+Iteration = 1000
+
+        Column  Count  Accuracy
+0      Outlook    639      0.70
+1  Temperature     62      0.19
+2     Humidity    221      0.55
+3         Wind     78      0.36
+
+        Column  Count  Accuracy
+0      Outlook    614      0.69
+1  Temperature     50      0.20
+2     Humidity    251      0.59
+3         Wind     85      0.36
+
+        Column  Count  Accuracy
+0      Outlook    651      0.70
+1  Temperature     45      0.19
+2     Humidity    236      0.56
+3         Wind     68      0.32
+
+        Column  Count  Accuracy
+0      Outlook    639      0.72
+1  Temperature     48      0.23
+2     Humidity    240      0.55
+3         Wind     73      0.31
+
+        Column  Count  Accuracy
+0      Outlook    621      0.71
+1  Temperature     56      0.23
+2     Humidity    258      0.55
+3         Wind     65      0.35
+
+        Column  Count  Accuracy
+0      Outlook    621      0.70
+1  Temperature     55      0.22
+2     Humidity    245      0.53
+3         Wind     79      0.32
+
+        Column  Count  Accuracy
+0      Outlook    626      0.70
+1  Temperature     54      0.20
+2     Humidity    256      0.55
+3         Wind     64      0.38
+
+        Column  Count  Accuracy
+0      Outlook    662      0.70
+1  Temperature     49      0.22
+2     Humidity    212      0.57
+3         Wind     77      0.37
+
+        Column  Count  Accuracy
+0      Outlook    630      0.72
+1  Temperature     59      0.16
+2     Humidity    248      0.55
+3         Wind     63      0.36
+
+        Column  Count  Accuracy
+0      Outlook    640      0.70
+1  Temperature     61      0.20
+2     Humidity    227      0.55
+3         Wind     72      0.33
+
+        Column  Count  Accuracy
+0      Outlook    650      0.71
+1  Temperature     44      0.18
+2     Humidity    239      0.53
+3         Wind     67      0.37
+
+        Column  Count  Accuracy
+0      Outlook    622      0.72
+1  Temperature     55      0.23
+2     Humidity    246      0.55
+3         Wind     77      0.37
+
+        Column  Count  Accuracy
+0      Outlook    656      0.69
+1  Temperature     38      0.21
+2     Humidity    222      0.56
+3         Wind     84      0.36
