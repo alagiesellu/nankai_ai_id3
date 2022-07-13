@@ -107,12 +107,7 @@ def generate_sub_tree(feature_name, train_data, label, class_list):
 def generate_tree(root, prev_feature_value, train_data, label, class_list):
     if train_data.shape[0] != 0:
         best_feature = find_best_feature(train_data, label, class_list)
-        tree, train_data = generate_sub_tree(
-            best_feature,
-            train_data,
-            label,
-            class_list
-        )
+        tree, train_data = generate_sub_tree(best_feature, train_data, label, class_list)
 
         if prev_feature_value != None:
             root[prev_feature_value] = dict()
